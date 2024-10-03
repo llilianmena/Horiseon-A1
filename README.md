@@ -1,5 +1,25 @@
 # Horiseon Social Service Solutions
 
-## Objective
+## Credits
+
+N/A
+## Description
+
 Our motivation taking on this project was to help our user "Horiseon Social Solucation" a more handiacceptable webpage for all. We targeted all images to have a detailed written description.
-We solved several errors found among the page that were corrected to display a more fuctioning site. This proved to be a great learning experience by recapping on HTML codes and formatting.
+
+## Installation
+
+N/A
+
+## Usage
+
+Our motivation taking on this project was to help our user "Horiseon Social Solucation" a more handiacceptable webpage for all. We targeted all images to have a detailed written description.
+
+## Credits
+
+N/A
+
+
+## Installation
+
+N/A
